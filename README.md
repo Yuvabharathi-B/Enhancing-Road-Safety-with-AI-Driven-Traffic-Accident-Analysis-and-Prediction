@@ -161,9 +161,10 @@ This project is licensed under the Apache 2.0 License. See [LICENSE](LICENSE) fo
 
 ## 📬 Contact
 
-- Author: [Your Name]
-- GitHub: [Your GitHub Profile]
-- Email: [Your Email]
+- Author: Yuvabharathi B
+- GitHub: (https://github.com/Yuvabharathi-B/Enhancing-Road-Safety-with-AI-Driven-Traffic-Accident-Analysis-and-Prediction)
+- Email: byuva276@gmail.com
+- college name: Sri Ramanujar Engineering College
 
 ## ⚠ Limitations
 
